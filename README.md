@@ -6,3 +6,5 @@
 <a href="https://github.com/cwwade04/CIS-3902-Data-Mining/blob/main/wade_Chapter_1_HW.ipynb">Mining the Classics Notebook - NLP</a><br>
 
 <a href="https://github.com/cwwade04/CIS-3902-Data-Mining/blob/main/Linear_Regression_with_the_California_Wildfires_Dataset.ipynb">Linear Regression with the California Wildfires</a><br>
+
+<a href="https://github.com/cwwade04/CIS-3902-Data-Mining/blob/main/cis3902finalproject_wade.ipynb">Final Project: Supervised Data Mining</a><br>
